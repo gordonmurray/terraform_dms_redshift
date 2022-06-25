@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            "filters": [],
+            "object-locator": {
+                "schema-name": "sendgrid",
+                "table-name": "sendgrid_events"
+            },
+            "rule-action": "include",
+            "rule-id": "100",
+            "rule-name": "sendgrid",
+            "rule-type": "selection"
+        }
+    ]
+}
