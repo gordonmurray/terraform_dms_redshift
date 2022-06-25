@@ -27,6 +27,7 @@ terraform plan
 
 ## Estimate cost
 
+```
 Project: gordonmurray/terraform_dms_redshift/.
 
  Name                                                 Monthly Qty  Unit                      Monthly Cost 
@@ -50,4 +51,4 @@ Project: gordonmurray/terraform_dms_redshift/.
   ∙ 1 x aws_dms_replication_task
 ∙ 2 are not supported yet, see https://infracost.io/requested-resources:
   ∙ 2 x aws_dms_endpoint
-
+```
