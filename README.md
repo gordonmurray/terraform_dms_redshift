@@ -1,6 +1,6 @@
 # Terraform AWS DMS to Redshift
 
-DMS items neccessary to move data from an RDS instance to AWS Redshift
+DMS items necessary to move data from an RDS instance to AWS Redshift
 
 ## Usage
 
